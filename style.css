@@ -19,7 +19,7 @@ body {
 }
 
 
-.section {
+.main {
     padding:5rem;
     background-color:hsl(212, 45%, 89%);
     display:flex;
@@ -67,7 +67,7 @@ body {
         margin:0;
         padding:0;
     }
-    .section {
+    .main {
         margin:0;
         padding:0;
         height:100vh;
